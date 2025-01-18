@@ -7,3 +7,5 @@ public static void main(string args[]){{
      int b=5;
    }
 }
+
+TASK 3: add + , - , * , / in calculator
