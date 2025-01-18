@@ -1,4 +1,6 @@
-TASK 1:
-TASK 2:
-TASK 3:
-TASK 4:
+TASK 1:class calculator{
+public static void main(string args[]){{
+     int a=10;
+     int b=5;
+   }
+}
